@@ -1,11 +1,9 @@
 
 
 <h1 align="center">Olá 👋, me chamo Diego</h1>
-<h3 align="center">Sou Programador de sistemas na empresa Saubern Campo Mourão/PR.</h3>
+<h3 align="center">Sou Programador de sistemas na empresa Saubern Campo Mourão/PR<br>Segue algumas Tecnologias que utilizo:</h3>
 
 <br>
-
-# Tecnologias que utilizo:
 
 <p></p>
 
@@ -23,23 +21,23 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 <p></p>
 
 ## ⚡ Banco de Dados
-
+<p align="left"> 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+</p>
 
 <p></p>
 
 ## 🚀 Frameworks
-
+<p align="left"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -57,33 +55,17 @@
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-
-<img src="" />
-
-<img src="" />
-
-<img src="" />
-
-<img src="" />
-
-<img src="" />
-
-<img src="" />
-
-<img src="" />
-
+</p>
 
 <p></p>
 
 ## 📱 Contato
-
+<p align="left"> 
 <a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
- </p>
+</p>
 
