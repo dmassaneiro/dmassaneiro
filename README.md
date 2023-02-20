@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá 👋, me chamo Diego</h1>
-<h3 align="center">Sou Programador de sistemas na empresa Saubern Campo Mourão/PR<br>Segue algumas Tecnologias que utilizo:</h3>
+<h3 align="center">Segue algumas Tecnologias que utilizo:</h3>
 
 <br>
 
